@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=250&section=header&text=Welcome!&fontSize=70&&animation=fadeIn&desc=Check%20Hanna's%20repo!&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=250&section=header&text=Welcome!&fontSize=70&&animation=fadeIn&desc=Check%20Hanna's%20repo!&descAlignY=70&theme=gruvbox_light)
 
 <p>
   <h3>👋 꾸준히 소통하며 더 나은 방향으로 발전해나가는 백엔드 개발자 류한나입니다. :) </h3>
